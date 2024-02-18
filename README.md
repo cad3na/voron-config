@@ -1,2 +1,4 @@
-# voron-config
-Configuration files for a Voron 0.2 3D Printer
+# klipper-backup 💾 
+Klipper backup script for manual or automated GitHub backups 
+
+This backup is provided by [klipper-backup](https://github.com/Staubgeborener/klipper-backup).
